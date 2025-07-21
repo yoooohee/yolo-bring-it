@@ -1,0 +1,11 @@
+[submodule "Yolo-bring-it-ai"]
+    path = Yolo-bring-it-ai
+    url = https://lab.ssafy.com/if-else/yolo-bring-it-ai.git
+
+[submodule "Yolo-bring-it-frontend"]
+    path = Yolo-bring-it-frontend
+    url = https://lab.ssafy.com/if-else/yolo-bring-it-frontend.git
+
+[submodule "Yolo-bring-it-backend"]
+    path = Yolo-bring-it-backend
+    url = https://lab.ssafy.com/if-else/yolo-bring-it-backend.git
