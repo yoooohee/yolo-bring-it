@@ -9,3 +9,15 @@
 [submodule "Yolo-bring-it-backend"]
     path = Yolo-bring-it-backend
     url = https://lab.ssafy.com/if-else/yolo-bring-it-backend.git
+
+[submodule "Yolo-bring-it-msa"]
+    path = Yolo-bring-it-msa
+    url = https://lab.ssafy.com/if-else/yolo-bring-it-msa.git
+
+[submodule "Yolo-bring-it-chat"]
+    path = Yolo-bring-it-chat
+    url = https://lab.ssafy.com/if-else/yolo-bring-it-chat.git
+
+[submodule "Yolo-bring-it-config"]
+    path = Yolo-bring-it-config
+    url = https://lab.ssafy.com/if-else/yolo-bring-it-config.git
