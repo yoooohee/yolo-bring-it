@@ -10,6 +10,8 @@
 
 한마디로, **YOLO-Bring-It은 실시간성과 재미, 그리고 소셜 연결을 결합한 차세대 소셜 게임 플랫폼**입니다! 🚀
 
+![screenshot](/docs/screenshot.png)
+
 ## 🏗️ 아키텍처 개요
 - **Frontend**: React + TypeScript + Vite + Tailwind + Zustand + Three.js
 - **Backend** (Spring Boot MSA)
@@ -28,8 +30,8 @@
     - Zipkin 🔎 (분산 트레이싱), OpenSearch 🔍 (로그/검색)
     - LiveKit 🎥 (화상 기반 게임룸)
     - AWS S3 ☁️ (파일 저장), Email 📧 (알림/인증)
-
-## 📂 프로젝트 구조
+B
+## 📂 프로젝트 구조B
 ```
 YOLO-Bring-It/
 ├── frontend/                      # React + TS + Vite
