@@ -47,9 +47,9 @@ YOLO-Bring-It/
 │   ├── chat-service/              # 💬 Chat (WebSocket, RabbitMQ)
 │   └── ai-service/                # 🤖 gRPC AI 판정
 │
-├── infra/
-│   ├── docker-compose.yml         # Postgres, Redis, RabbitMQ, Kafka 등
-│   └── nginx.conf                 # Reverse Proxy
+└── infra/
+    ├── docker-compose.yml         # Postgres, Redis, RabbitMQ, Kafka 등
+    └── nginx.conf                 # Reverse Proxy
 
 ```
 
