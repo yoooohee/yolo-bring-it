@@ -12,7 +12,7 @@
 
 ![screenshot](/docs/screenshot.png)
 
-## 🏗️ 아키텍처 개요
+## 🌐 아키텍처 개요
 - **Frontend**: React + TypeScript + Vite + Tailwind + Zustand + Three.js
 - **Backend** (Spring Boot MSA)
     - gateway-service 🌐 : API Gateway
@@ -63,8 +63,8 @@ YOLO-Bring-It/
 - ⚡ MSA 아키텍처: Spring Cloud (Gateway, Eureka, Config)
 - ☁️ 클라우드 인프라: AWS EC2 + S3 + Nginx
 
-## 아키텍처
+## 🏗️ 아키텍처
 ![screenshot](/docs/architecture.png)
 
-## ER-Diagram
+## 🔗 ER-Diagram
 ![screenshot](/docs/erd.png)
