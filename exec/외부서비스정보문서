@@ -1,0 +1,5 @@
+- 소셜 인증 (Kakao)
+소셜 인증은 kakao oauth 기반 소셜 인증을 사용합니다.
+
+- 파일 저장 (Cloudflare)
+파일 저장의 경우 cloudflare r2를 사용하여 저장합니다.
