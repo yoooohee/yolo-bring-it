@@ -30,8 +30,8 @@
     - Zipkin 🔎 (분산 트레이싱), OpenSearch 🔍 (로그/검색)
     - LiveKit 🎥 (화상 기반 게임룸)
     - AWS S3 ☁️ (파일 저장), Email 📧 (알림/인증)
-B
-## 📂 프로젝트 구조B
+
+## 📂 프로젝트 구조
 ```
 YOLO-Bring-It/
 ├── frontend/                      # React + TS + Vite
@@ -62,3 +62,9 @@ YOLO-Bring-It/
 - 📊 랭킹 시스템: Kafka 이벤트 스트리밍
 - ⚡ MSA 아키텍처: Spring Cloud (Gateway, Eureka, Config)
 - ☁️ 클라우드 인프라: AWS EC2 + S3 + Nginx
+
+## 아키텍처
+![screenshot](/docs/architecture.png)
+
+## ER-Diagram
+![screenshot](/docs/erd.png)
