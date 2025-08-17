@@ -50,9 +50,7 @@ YOLO-Bring-It/
 ├── infra/
 │   ├── docker-compose.yml         # Postgres, Redis, RabbitMQ, Kafka 등
 │   └── nginx.conf                 # Reverse Proxy
-│
-└── docs/
-    └── architecture.png           # 시스템 아키텍처 다이어그램
+
 ```
 
 ## 🔑 주요 기능
