@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/chats
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: 1234
+
+token:
+  secret: jA+YxXxRUvN+uE0V3zYmWg4kaSFO5XT+ANeOE93Eeb7Inw9BQ4QLQZgqZjC/qEygdz9WejAjNs80zyPvjh+7tA==
+
+gateway:
+  ip: 172.18.0.5

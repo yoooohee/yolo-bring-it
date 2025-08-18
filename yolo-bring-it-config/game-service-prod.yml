@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://172.18.0.8:5432/games
+    username: postgres
+    password: 1234
+
+token:
+  secret: jA+YxXxRUvN+uE0V3zYmWg4kaSFO5XT+ANeOE93Eeb7Inw9BQ4QLQZgqZjC/qEygdz9WejAjNs80zyPvjh+7tA==
+
+gateway:
+  ip: 172.18.0.5
+
+grpc:
+  host: grpc-server
+  port: 50051

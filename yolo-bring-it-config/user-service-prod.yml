@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://172.18.0.7:5432/users
+    username: postgres
+    password: 1234
+
+token:
+  secret: jA+YxXxRUvN+uE0V3zYmWg4kaSFO5XT+ANeOE93Eeb7Inw9BQ4QLQZgqZjC/qEygdz9WejAjNs80zyPvjh+7tA==
+
+gateway:
+  ip: 172.18.0.5
+
+#server:
+#  ssl:
+#      key-store: file:/ssl/usersecurity.p12
+#      key-store-type: PKCS12
+#      key-store-password: yolobringit
+#      key-alias: user-service
+
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#     defaultZone: http://service-discovery:8761/eureka
+#  instance:
+#    secure-port-enabled: true
+#    non-secure-port-enabled: false
