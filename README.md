@@ -66,3 +66,44 @@ YOLO-Bring-It/
 
 ## 🔗 ER-Diagram
 ![screenshot](/docs/erd.png)
+
+## 화면 구성
+### 메인화면
+![screenshot](/docs/images/메인화면.png)
+
+### 참가화면
+![screenshot](/docs/images/참가화면.png)
+
+### 게임가이드
+![screenshot](/docs/images/게임가이드2.png)
+![screenshot](/docs/images/게임가이드.png)
+
+### 게임설정
+![screenshot](/docs/images/게임설정.png)
+
+### 상점
+![screenshot](/docs/images/상점.png)
+![screenshot](/docs/images/명찰.png)
+
+### 보관함
+![screenshot](/docs/images/보관함.png)
+![screenshot](/docs/images/보관함2.png)
+![screenshot](/docs/images/보관함3.png)
+
+### 업적
+![screenshot](/docs/images/업적.png)
+
+### 친구
+![screenshot](/docs/images/친구.png)
+![screenshot](/docs/images/친구2.png)
+![screenshot](/docs/images/칭호2.png)
+
+### 랭킹
+![screenshot](/docs/images/랭킹.png)
+
+### 프로필
+![screenshot](/docs/images/프로필.png)
+
+### 매칭 페이지
+![screenshot](/docs/images/매칭페이지.png)
+![screenshot](/docs/images/사용자설정.png)
