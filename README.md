@@ -107,3 +107,41 @@ YOLO-Bring-It/
 ### 매칭 페이지
 ![screenshot](/docs/images/매칭페이지.png)
 ![screenshot](/docs/images/사용자설정.png)
+
+### 대기방
+![screenshot](/docs/images/대기방.png)
+
+### 게임 시작 전 카운트다운
+![screenshot](/docs/images/3.png)
+![screenshot](/docs/images/2.png)
+![screenshot](/docs/images/1.png)
+
+### 컬러 킬러
+![screenshot](/docs/images/colorkiller.png)
+![screenshot](/docs/images/colorkiller2.png)
+![screenshot](/docs/images/colorkiller3.png)
+![screenshot](/docs/images/colorkiller4.png)
+
+### FaceIt
+![screenshot](/docs/images/faceit.png)
+![screenshot](/docs/images/faceit2.png)
+![screenshot](/docs/images/faceit3.png)
+![screenshot](/docs/images/faceit4.png)
+
+### BringIt
+![screenshot](/docs/images/bringit.png)
+![screenshot](/docs/images/bringit2.png)
+![screenshot](/docs/images/bringit3.png)
+![screenshot](/docs/images/bringit4.png)
+
+### DrawIt
+![screenshot](/docs/images/drawit.png)
+![screenshot](/docs/images/drawit2.png)
+![screenshot](/docs/images/drawit3.png)
+![screenshot](/docs/images/drawit4.png)
+
+### 라운드 결과
+![screenshot](/docs/images/라운드1결과.png)
+
+### 최종 결과
+![screenshot](/docs/images/최종결과.png)
